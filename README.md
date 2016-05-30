@@ -1,2 +1,5 @@
 # hello-world
-Finappo's repository
+
+Wazzapp, world!
+
+Finappo is here! Ready to drift in future banking solutions?
